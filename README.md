@@ -104,7 +104,8 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SUGAN-24&theme=tokyonight&utcOffset=5.5" width="49%" alt="GitHub productive time chart, India time" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SUGAN-24&theme=tokyonight" width="49%" alt="GitHub activity statistics card" />
   <br/><br/>
-  <a href="https://github.com/SUGAN-24?tab=overview&from=2026-01-01&to=2026-12-31"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUGAN-24&theme=tokyonight" width="100%" alt="GitHub contribution activity overview" /></a>
+  <!-- BEGIN ACTIVITY-GRAPH -->
+  <!-- END ACTIVITY-GRAPH -->
 </div>
 
 ## ✦ LEETCODE DASHBOARD
