@@ -24,6 +24,18 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
 
 </div>
 
+## ✦ EDUCATION
+
+<div align="center">
+
+| **QUALIFICATION** | **INSTITUTION** | **YEAR** | **RESULT** |
+|:---|:---|:---:|:---:|
+| B.E. Computer Science and Engineering | V.S.B. Engineering College, Karur · Anna University, Chennai | 2023–2027 | CGPA: 7.7 |
+| HSC / Class XII | Malar Matriculation Higher Secondary School, Namakkal | 2021–2023 | 75% |
+| SSLC / Class X | R.N. Oxford Matriculation School, Namakkal | 2021 | All Pass |
+
+</div>
+
 ## ✦ TECH STACK
 
 <div align="center">
