@@ -1,4 +1,4 @@
-name: Generate aurora cyan contribution trail
+name: Generate golden yellow contribution trail
 
 on:
   workflow_dispatch:
@@ -23,14 +23,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate aurora cyan contribution snake
+      - name: Generate golden yellow contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: SUGAN-24
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%2322D3EE&color_dots=%23050816,%23172554,%23312E81,%230E7490,%2367E8F9
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2367E8F9&color_dots=%23050816,%23172554,%23312E81,%230E7490,%2322D3EE
-            dist/github-contribution-grid-snake-light.svg?palette=github&color_snake=%230E7490&color_dots=%23ECFEFF,%23CFFAFE,%2399F6E4,%2367E8F9,%230E7490
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23FACC15&color_dots=%23050816,%23422006,%23854D0E,%23CA8A04,%23FDE047
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FDE047&color_dots=%23050816,%23422006,%23854D0E,%23CA8A04,%23FACC15
+            dist/github-contribution-grid-snake-light.svg?palette=github&color_snake=%23CA8A04&color_dots=%23FEFCE8,%23FEF08A,%23FDE047,%23EAB308,%23A16207
 
       - name: Publish SVG animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
