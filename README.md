@@ -91,13 +91,6 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
   <p><sub>Every contribution leaves a trail. Keep building, and let the snake chase the squares.</sub></p>
 </div>
 
-## ✦ 3D CONTRIBUTION GRAPH
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution calendar in a dark rainbow theme" />
-  <p><sub>A 3D view of my GitHub contribution activity — automatically refreshed daily.</sub></p>
-</div>
-
 ## ✦ GITHUB ACTIVITY & ANALYTICS
 
 <div align="center">
@@ -111,7 +104,7 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SUGAN-24&theme=tokyonight&utcOffset=5.5" width="49%" alt="GitHub productive time chart, India time" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SUGAN-24&theme=tokyonight" width="49%" alt="GitHub activity statistics card" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUGAN-24&bg_color=050816&color=67E8F9&line=22D3EE&point=C084FC&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+  <a href="https://github.com/SUGAN-24?tab=overview&from=2026-01-01&to=2026-12-31"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUGAN-24&theme=tokyonight" width="100%" alt="GitHub contribution activity overview" /></a>
 </div>
 
 ## ✦ LEETCODE DASHBOARD
