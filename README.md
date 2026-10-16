@@ -1,164 +1,106 @@
-
-<!--
-  SUGAN-24 | Developer Profile
-  Theme: Midnight Aurora • Electric Blue • Firefly
--->
-
+<!-- SUGAN-24 • MIDNIGHT FIREFLY / profile README -->
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:07111F,45:102A43,100:312E81&text=SUGANKUMAR&fontColor=E6F7FF&fontSize=48&fontAlignY=38&desc=JAVA%20DEVELOPER%20%7C%20PROBLEM%20SOLVER&descAlignY=59&descSize=14&animation=fadeIn" alt="Sugan Kumar developer banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+ideas+into+working+software;Learning+Java+one+problem+at+a+time;Designing+cleaner+solutions;Consistency+over+perfection" alt="Animated developer introduction"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,35:101B3D,70:312E81,100:06B6D4&text=SUGAN%20KUMAR&fontColor=F0FDFF&fontSize=48&fontAlignY=38&desc=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20REPEAT&descAlignY=60&descSize=14&animation=fadeIn" alt="Midnight aurora banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=750&color=67E8F9&center=true&vCenter=true&width=680&lines=Java+Developer+%7C+Full-Stack+Explorer;Turning+ideas+into+useful+software;Curious+mind.+Consistent+commits.;Building+today%2C+better+tomorrow." alt="Animated developer tagline"/>
 <br/>
-
-<a href="https://github.com/SUGAN-24">
-  <img src="https://img.shields.io/badge/GitHub-SUGAN--24-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://leetcode.com/u/SUGANKUMAR-S/">
-  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-<a href="https://www.linkedin.com/in/sugankumar-s-ba43853ba/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
+<a href="https://github.com/SUGAN-24"><img src="https://img.shields.io/badge/GitHub-SUGAN--24-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://leetcode.com/u/SUGANKUMAR-S/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.linkedin.com/in/sugankumar-s-ba43853ba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
 ---
-
-## `01 / About Me`
-
-```java
-public class SuganKumar {
-
-    static final String ROLE = "Aspiring Software Developer";
-    static final String PRIMARY_LANGUAGE = "Java";
-
-    static final String[] INTERESTS = {
-        "Problem Solving",
-        "Data Structures & Algorithms",
-        "Software Development",
-        "Web Development"
-    };
-
-    public static void main(String[] args) {
-        System.out.println("Learn. Build. Improve. Repeat.");
-    }
-}
-```
-
-- 🎓 Computer Science and Engineering student.
-- ☕ Focused on Java, programming fundamentals and problem solving.
-- 🧩 Interested in writing readable, maintainable code.
-- 🚀 Building projects to turn concepts into practical skills.
-- 📈 Improving through consistent coding practice.
-
----
-
-## `02 / Tech Stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode&theme=dark" alt="Technology stack"/>
+### ✦ ABOUT THE DEVELOPER ✦
+
+**Computer Science & Engineering student** interested in Java, full-stack development, AI-powered applications, and solving problems with clean code.
+
+*I like learning by building — one feature, one fix, one commit at a time.*
 
 </div>
 
-| Area | Technologies |
+## ◈ Tech constellation
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,react,nodejs,express,html,css,js,mongodb,mysql,git,github,vscode&theme=dark" alt="Tech stack"/>
+</div>
+
+| Focus | Tools & concepts |
 |---|---|
-| Programming | Java |
-| Web | HTML, CSS, JavaScript |
-| Database | MySQL |
-| Tools | Git, GitHub, VS Code |
-| Core concepts | OOP, Data Structures, Algorithms, SQL |
+| Programming | Java, JavaScript |
+| Frontend | React, HTML, CSS |
+| Backend | Node.js, Express.js |
+| Data | MongoDB, MySQL |
+| Core | OOP, Data Structures, Algorithms, REST APIs |
+| Workflow | Git, GitHub, VS Code |
 
----
-
-## `03 / Contribution Observatory`
+## ◈ Featured builds
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SUGAN-24&bg_color=07111f&color=7dd3fc&line=38bdf8&point=a78bfa&area=true&hide_border=true&custom_title=THE%20CODING%20TIMELINE" width="100%" alt="GitHub activity timeline"/>
+<a href="https://github.com/SUGAN-24/DevMentor-AI"><img src="https://img.shields.io/badge/01%20%E2%80%A2%20DevMentor--AI-AI%20Coding%20Mentor-312E81?style=for-the-badge&logo=github&logoColor=white" alt="DevMentor-AI project"/></a>
+
+**DevMentor-AI**  
+An AI-powered coding mentor focused on project-based learning, debugging guidance, and interview preparation.  
+React · Node.js · Express
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SUGAN-24&show_icons=true&hide_border=true&bg_color=07111f&title_color=7dd3fc&text_color=cbd5e1&icon_color=a78bfa&rank_icon=github" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUGAN-24&layout=compact&hide_border=true&bg_color=07111f&title_color=7dd3fc&text_color=cbd5e1" height="165" alt="Most used languages"/>
+<a href="https://github.com/SUGAN-24/EDUWIZAI-Chatbot"><img src="https://img.shields.io/badge/02%20%E2%80%A2%20EduWiz%20AI-Level--Based%20Learning-0E7490?style=for-the-badge&logo=google&logoColor=white" alt="EduWiz AI project"/></a>
+
+**EduWiz AI — Level-Based Learning Chatbot**  
+An educational chatbot that explains, summarizes, and defines concepts at a selected difficulty level.  
+React · Node.js · Express · Gemini API
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SUGAN-24&theme=transparent&hide_border=true&background=07111F&ring=38BDF8&fire=A78BFA&currStreakLabel=7DD3FC&sideLabels=CBD5E1&dates=94A3B8" width="75%" alt="GitHub contribution streak"/>
+<a href="https://github.com/SUGAN-24/java-practise"><img src="https://img.shields.io/badge/03%20%E2%80%A2%20Java%20Practice-Core%20Java-166534?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java practice repository"/></a>
+
+**Java Practice**  
+A growing collection of Java exercises for strengthening programming fundamentals and problem-solving skills.
 
 </div>
 
-### 🪲 Firefly Catcher — contribution edition
+<p align="center"><a href="https://github.com/SUGAN-24?tab=repositories"><img src="https://img.shields.io/badge/Explore-All%20Repositories-334155?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/></a></p>
+
+## ◈ Contribution lab · Firefly hunt
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=500&color=86EFAC&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Hunting+bugs%2C+one+commit+at+a+time;%F0%9F%AA%B2+Catch+a+bug.+Fix+a+bug.+Ship+the+code.;%F0%9F%92%BB+Every+contribution+tells+a+story" alt="Animated firefly catcher message"/>
+<!-- Generated automatically by .github/workflows/snake.yml -->
+<img src="https://raw.githubusercontent.com/SUGAN-24/SUGAN-24/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution-grid trail"/>
 
-**Catch bugs in code. Collect contributions through consistency.**
+<sub>Every square is activity. Every commit moves the trail forward. Keep the streak alive.</sub>
 
 </div>
 
-> The activity graph and streak card show GitHub activity through external services. The Firefly Catcher is a visual theme, not a live insect that detects or captures individual contribution squares. A truly synchronized insect-catching animation would need a separate generated SVG and GitHub Actions workflow.
+> **First-time setup:** the animated contribution trail appears after the workflow runs successfully. Open the repository's Actions tab, choose **Generate contribution trail**, and click **Run workflow** once. The workflow publishes the animation to the output branch.
 
----
-
-## `04 / Projects`
+## ◈ GitHub telemetry
 
 <div align="center">
-
-<a href="https://github.com/SUGAN-24?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUGAN-24&repo=REPLACE_WITH_PROJECT_REPO&theme=transparent&hide_border=true&bg_color=07111F&title_color=7DD3FC&text_color=CBD5E1" alt="Project card template"/>
-</a>
-
+<img src="https://github-readme-stats.vercel.app/api?username=SUGAN-24&show_icons=true&hide_border=true&bg_color=080D1C&title_color=67E8F9&text_color=D7E2F0&icon_color=A78BFA&rank_icon=github" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUGAN-24&layout=compact&hide_border=true&bg_color=080D1C&title_color=67E8F9&text_color=D7E2F0" height="165" alt="Most used languages"/>
+<br/>
+<img src="https://streak-stats.demolab.com?user=SUGAN-24&hide_border=true&background=080D1C&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=D7E2F0&dates=94A3B8" width="75%" alt="Contribution streak"/>
 </div>
 
-- **Project 01 —** Add your actual project name, technology stack and what problem it solves.
-- **Project 02 —** Add another completed project with its repository link.
-- **Project 03 —** Add a project you are currently developing.
+## ◈ Current direction
 
-*Replace `REPLACE_WITH_PROJECT_REPO` with an existing repository name before using the project card. Remove the card if you don't want to display a template.*
+- Strengthening Java, OOP, data structures, and algorithms.
+- Building useful full-stack and AI-assisted applications.
+- Improving code quality, debugging, and project documentation.
+- Staying consistent and learning through hands-on work.
 
----
-
-## `05 / Coding Philosophy`
-
-<div align="center">
-
-| Principle | Mindset |
-|:---:|---|
-| `01` | Learn the fundamentals |
-| `02` | Solve problems consistently |
-| `03` | Build before you perfect |
-| `04` | Improve with every iteration |
-
-</div>
-
----
-
-## `06 / Let's Connect`
+## ◈ Find me
 
 <div align="center">
-
-<a href="mailto:sugan.s24082005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/sugankumar-s-ba43853ba/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/SUGAN-24">
-  <img src="https://img.shields.io/badge/Explore%20My%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
+<a href="mailto:sugan.s24082005@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/sugankumar-s-ba43853ba/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=SUGAN-24&style=flat-square&color=38BDF8&label=PROFILE+VISITS" alt="Profile visits"/>
-
+<img src="https://komarev.com/ghpvc/?username=SUGAN-24&style=flat-square&color=06B6D4&label=PROFILE+VISITS" alt="Profile views"/>
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:102A43,100:07111F&height=100&section=footer" width="100%" alt="Decorative footer"/>
-
-**Thanks for visiting — keep building, keep learning.** ✨
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06B6D4,45:312E81,100:050816" alt="Aurora footer"/>
+**Thanks for stopping by. Keep creating. ✦**
 </div>
