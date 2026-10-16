@@ -91,6 +91,12 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
   <p><sub>Every contribution leaves a trail. Keep building, and let the snake chase the squares.</sub></p>
 </div>
 
+## ✦ CONTRIBUTION BREAKDOWN
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SUGAN-24&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=E2E8F0&icon_color=C084FC&rank_icon=github" width="80%" alt="GitHub contribution breakdown showing commits, issues, pull requests, code reviews, and merged pull request percentage" />
+</div>
+
 ## ✦ GITHUB ACTIVITY & ANALYTICS
 
 <div align="center">
