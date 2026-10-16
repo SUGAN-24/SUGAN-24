@@ -24,7 +24,7 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
 
 </div>
 
-## ✦ EDUCATION
+<h2 align="center">✦ EDUCATION</h2>
 
 <div align="center">
 
@@ -36,7 +36,7 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
 
 </div>
 
-## ✦ TECH STACK
+<h2 align="center">✦ TECH STACK</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,html,css,mongodb,mysql,git,github,vscode&theme=dark" alt="Java, JavaScript, React, Node.js, Express, HTML, CSS, MongoDB, MySQL, Git, GitHub and VS Code" />
@@ -51,7 +51,7 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
 
 </div>
 
-## ✦ FEATURED PROJECTS
+<h2 align="center">✦ FEATURED PROJECTS</h2>
 
 <div align="center">
 
@@ -84,32 +84,32 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
 
 </div>
 
-## ✦ CONTRIBUTION TRAIL
+<h2 align="center">✦ CONTRIBUTION TRAIL</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SUGAN-24/SUGAN-24/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake moving across the GitHub contribution grid" />
   <p><sub>Every contribution leaves a trail. Keep building, and let the snake chase the squares.</sub></p>
 </div>
 
-## ✦ MOST USED LANGUAGES
+<h2 align="center">✦ MOST USED LANGUAGES</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUGAN-24&layout=donut&langs_count=20&card_width=600&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=FFFFFF&size_weight=0.5&count_weight=0.5" width="85%" alt="Donut chart showing up to 20 most-used programming languages with a high-contrast legend" />
   <p><sub>Color-coded language ring · Up to 20 languages · Bright text for readability</sub></p>
 </div>
 
-## ✦ CONTRIBUTION BREAKDOWN
+<h2 align="center">✦ CONTRIBUTION BREAKDOWN</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SUGAN-24&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=FFFFFF&icon_color=C084FC&rank_icon=github" width="80%" alt="GitHub contribution breakdown showing commits, issues, pull requests, code reviews, and merged pull request percentage" />
 </div>
 
-## ✦ GITHUB ACTIVITY & ANALYTICS
+<h2 align="center">✦ GITHUB ACTIVITY & ANALYTICS</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SUGAN-24&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=FFFFFF&icon_color=C084FC" height="190" alt="GitHub statistics and repository activity with high-contrast white labels and numbers" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=SUGAN-24&hide_border=true&background=050816&ring=22D3EE&fire=C084FC&currStreakLabel=67E8F9&sideLabels=FFFFFF&dates=CBD5E1&sideNums=FFFFFF&currStreakNum=FFFFFF&ring=22D3EE&fire=C084FC" width="80%" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=SUGAN-24&hide_border=true&background=050816&ring=22D3EE&fire=C084FC&currStreakLabel=67E8F9&sideLabels=FFFFFF&dates=CBD5E1&sideNums=FFFFFF&currStreakNum=FFFFFF" width="80%" alt="GitHub contribution streak" />
   <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUGAN-24&theme=tokyonight" width="100%" alt="GitHub contribution activity summary" />
   <br/><br/>
@@ -120,7 +120,7 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
   <!-- END ACTIVITY-GRAPH -->
 </div>
 
-## ✦ LEETCODE DASHBOARD
+<h2 align="center">✦ LEETCODE DASHBOARD</h2>
 
 <div align="center">
   <a href="https://leetcode.com/u/SUGANKUMAR-S/">
@@ -133,7 +133,7 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
   <b>Practice. Learn. Improve. Repeat. ✦</b>
 </div>
 
-## ✦ CERTIFICATIONS
+<h2 align="center">✦ CERTIFICATIONS</h2>
 
 <div align="center">
 
@@ -144,14 +144,14 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
 
 </div>
 
-## ✦ CURRENTLY LEVELING UP
+<h2 align="center">✦ CURRENTLY LEVELING UP</h2>
 
 - Strengthening Java, OOP, data structures, algorithms, and interview fundamentals.
 - Building full-stack applications and exploring AI-powered tools.
 - Writing clearer documentation and improving code quality.
 - Showing up consistently — one commit and one concept at a time.
 
-## ✦ LET’S CONNECT
+<h2 align="center">✦ LET’S CONNECT</h2>
 
 <div align="center">
   <a href="mailto:sugan.s24082005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sugan"/></a>
