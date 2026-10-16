@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" fill="none">
+  <defs>
+    <linearGradient id="scale" x1="180" y1="40" x2="800" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDE68A"/><stop offset=".45" stop-color="#FACC15"/><stop offset=".78" stop-color="#F59E0B"/><stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="wing" x1="350" y1="50" x2="540" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDE047" stop-opacity=".95"/><stop offset="1" stop-color="#B45309" stop-opacity=".48"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g opacity=".55" fill="#FACC15">
+    <rect x="80" y="236" width="14" height="14" rx="3"/><rect x="101" y="236" width="14" height="14" rx="3" opacity=".25"/>
+    <rect x="122" y="236" width="14" height="14" rx="3" opacity=".55"/><rect x="143" y="236" width="14" height="14" rx="3" opacity=".8"/>
+    <rect x="164" y="236" width="14" height="14" rx="3" opacity=".35"/><rect x="185" y="236" width="14" height="14" rx="3" opacity=".7"/>
+    <rect x="206" y="236" width="14" height="14" rx="3" opacity=".2"/><rect x="227" y="236" width="14" height="14" rx="3" opacity=".9"/>
+    <rect x="248" y="236" width="14" height="14" rx="3" opacity=".45"/><rect x="269" y="236" width="14" height="14" rx="3" opacity=".7"/>
+    <rect x="290" y="236" width="14" height="14" rx="3" opacity=".25"/><rect x="311" y="236" width="14" height="14" rx="3" opacity=".85"/>
+    <rect x="332" y="236" width="14" height="14" rx="3" opacity=".4"/><rect x="353" y="236" width="14" height="14" rx="3" opacity=".65"/>
+    <rect x="374" y="236" width="14" height="14" rx="3" opacity=".3"/><rect x="395" y="236" width="14" height="14" rx="3" opacity=".95"/>
+    <rect x="416" y="236" width="14" height="14" rx="3" opacity=".45"/><rect x="437" y="236" width="14" height="14" rx="3" opacity=".75"/>
+    <rect x="458" y="236" width="14" height="14" rx="3" opacity=".25"/><rect x="479" y="236" width="14" height="14" rx="3" opacity=".8"/>
+    <rect x="500" y="236" width="14" height="14" rx="3" opacity=".5"/><rect x="521" y="236" width="14" height="14" rx="3" opacity=".95"/>
+    <rect x="542" y="236" width="14" height="14" rx="3" opacity=".3"/><rect x="563" y="236" width="14" height="14" rx="3" opacity=".7"/>
+    <rect x="584" y="236" width="14" height="14" rx="3" opacity=".4"/><rect x="605" y="236" width="14" height="14" rx="3" opacity=".9"/>
+    <rect x="626" y="236" width="14" height="14" rx="3" opacity=".2"/><rect x="647" y="236" width="14" height="14" rx="3" opacity=".65"/>
+    <rect x="668" y="236" width="14" height="14" rx="3" opacity=".35"/><rect x="689" y="236" width="14" height="14" rx="3" opacity=".85"/>
+    <rect x="710" y="236" width="14" height="14" rx="3" opacity=".45"/><rect x="731" y="236" width="14" height="14" rx="3" opacity=".75"/>
+    <rect x="752" y="236" width="14" height="14" rx="3" opacity=".25"/><rect x="773" y="236" width="14" height="14" rx="3" opacity=".9"/>
+    <rect x="794" y="236" width="14" height="14" rx="3" opacity=".5"/><rect x="815" y="236" width="14" height="14" rx="3" opacity=".8"/>
+    <rect x="836" y="236" width="14" height="14" rx="3" opacity=".35"/><rect x="857" y="236" width="14" height="14" rx="3" opacity=".7"/>
+    <rect x="878" y="236" width="14" height="14" rx="3" opacity=".25"/>
+  </g>
+  <g stroke="url(#scale)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" filter="url(#glow)">
+    <path d="M782 155 C835 172 859 205 823 218 C787 232 735 204 690 183 C642 160 615 177 593 195 C564 219 532 216 509 199 C483 180 489 151 516 139 C543 127 572 142 587 160" stroke-width="17"/>
+    <path d="M782 155 C835 172 859 205 823 218 C787 232 735 204 690 183 C642 160 615 177 593 195 C564 219 532 216 509 199 C483 180 489 151 516 139 C543 127 572 142 587 160" stroke="#FDE68A" stroke-width="3" opacity=".9"/>
+    <path d="M601 155 C564 121 524 98 482 93 C446 89 420 103 405 126 C431 120 450 130 466 147 C489 173 516 182 543 176" fill="url(#wing)" stroke-width="5"/>
+    <path d="M482 93 L468 64 L510 87 L526 56 L542 101" fill="#FACC15" stroke-width="4"/>
+    <path d="M600 155 C569 126 550 105 548 78 C578 92 602 111 617 138" fill="url(#wing)" stroke-width="4"/>
+    <path d="M574 158 C553 143 534 140 517 148 C500 156 500 177 515 189 C536 206 566 197 584 181" stroke-width="13"/>
+    <path d="M522 183 L499 205 L529 198 M558 194 L548 215 L575 195" stroke-width="6"/>
+    <path d="M584 163 C611 136 636 118 664 115 C692 112 710 124 721 142 L756 145 L785 160 L758 174 L728 168 C713 187 690 194 668 184 L637 173 L608 180" stroke-width="11"/>
+    <path d="M663 116 L657 94 L678 111 L693 94 L696 119" fill="#FACC15" stroke-width="4"/>
+    <path d="M704 144 L732 147 L716 156 L695 153" stroke-width="3"/>
+    <path d="M741 150 L752 155" stroke="#22D3EE" stroke-width="7"/>
+    <path d="M773 161 L797 173 L785 181" stroke-width="4"/>
+    <path d="M628 176 L610 199 L637 190 L650 211 L662 184" fill="#D97706" stroke-width="4"/>
+  </g>
+  <g fill="#67E8F9">
+    <circle cx="750" cy="155" r="3.5"/><circle cx="450" cy="112" r="3"/><circle cx="394" cy="145" r="2.5"/>
+    <circle cx="844" cy="128" r="2.5"/><circle cx="320" cy="187" r="3"/><circle cx="879" cy="190" r="2"/>
+  </g>
+  <path d="M95 270 H905" stroke="#FACC15" stroke-opacity=".25" stroke-width="1.5" stroke-dasharray="3 9"/>
+  <text x="500" y="289" text-anchor="middle" fill="#FDE68A" font-family="monospace" font-size="11" letter-spacing="4">KEEP BUILDING · KEEP RISING</text>
+</svg>
