@@ -115,6 +115,9 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
     <img src="https://leetcard.jacoblin.cool/SUGANKUMAR-S?theme=dark&font=Baloo&ext=heatmap" width="500" alt="LeetCode statistics and submission heatmap for SUGANKUMAR-S" />
   </a>
   <br/><br/>
+  <img src="https://raw.githubusercontent.com/SUGAN-24/SUGAN-24/main/assets/leetcode-yellow-snake.svg" width="100%" alt="Golden yellow snake weaving across a dark LeetCode-inspired activity grid" />
+  <sub>Golden yellow snake accent · decorative visual, not live submission data</sub>
+  <br/><br/>
   <a href="https://leetcode.com/u/SUGANKUMAR-S/"><img src="https://img.shields.io/badge/LEETCODE-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode profile" /></a>
   <br/><br/>
   <b>Practice. Learn. Improve. Repeat. ✦</b>
