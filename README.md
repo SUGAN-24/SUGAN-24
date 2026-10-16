@@ -79,13 +79,32 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
   <p><sub>Every contribution leaves a trail. Keep building, and let the snake chase the squares.</sub></p>
 </div>
 
-## ✦ GITHUB ACTIVITY
+## ✦ GITHUB ACTIVITY & ANALYTICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUGAN-24&show_icons=true&hide_border=true&rank_icon=github&bg_color=050816&title_color=22D3EE&text_color=E2E8F0&icon_color=C084FC" height="170" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUGAN-24&layout=compact&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=E2E8F0" height="170" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SUGAN-24&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=E2E8F0&icon_color=C084FC" height="170" alt="GitHub statistics and repository activity" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUGAN-24&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=E2E8F0" height="170" alt="Most used programming languages" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=SUGAN-24&hide_border=true&background=050816&ring=22D3EE&fire=C084FC&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8" width="80%" alt="GitHub contribution streak" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUGAN-24&theme=tokyonight" width="100%" alt="GitHub contribution activity summary" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SUGAN-24&theme=tokyonight&utcOffset=5.5" width="49%" alt="GitHub productive time chart, India time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SUGAN-24&theme=tokyonight" width="49%" alt="GitHub activity statistics card" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUGAN-24&bg_color=050816&color=67E8F9&line=22D3EE&point=C084FC&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+</div>
+
+## ✦ LEETCODE DASHBOARD
+
+<div align="center">
+  <a href="https://leetcode.com/u/SUGANKUMAR-S/">
+    <img src="https://leetcard.jacoblin.cool/SUGANKUMAR-S?theme=dark&font=Baloo&ext=heatmap" width="500" alt="LeetCode statistics and submission heatmap for SUGANKUMAR-S" />
+  </a>
+  <br/><br/>
+  <a href="https://leetcode.com/u/SUGANKUMAR-S/"><img src="https://img.shields.io/badge/LEETCODE-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode profile" /></a>
+  <br/><br/>
+  <b>Practice. Learn. Improve. Repeat. ✦</b>
 </div>
 
 ## ✦ CERTIFICATIONS & LEARNING
