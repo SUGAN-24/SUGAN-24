@@ -116,8 +116,6 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
   </a>
 
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/SUGAN-24/SUGAN-24/main/assets/leetcode-yellow-snake.svg" width="100%" alt="Decorative golden snake artwork for the LeetCode section" />
-  <br/><br/>
   <a href="https://leetcode.com/u/SUGANKUMAR-S/"><img src="https://img.shields.io/badge/LEETCODE-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode profile" /></a>
   <br/><br/>
   <b>Practice. Learn. Improve. Repeat. ✦</b>
