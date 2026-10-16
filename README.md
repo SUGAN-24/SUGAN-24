@@ -111,11 +111,11 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td colspan="2" align="center" valign="top">
       <b>✦ CONTRIBUTION STREAK</b><br/>
-      <img src="https://streak-stats.demolab.com?user=SUGAN-24&hide_border=true&background=050816&ring=22D3EE&fire=C084FC&currStreakLabel=67E8F9&sideLabels=FFFFFF&dates=CBD5E1&sideNums=FFFFFF&currStreakNum=FFFFFF" width="100%" alt="GitHub contribution streak" />
+      <sub>Consistency over time · Every commit counts</sub><br/><br/>
+      <img src="https://streak-stats.demolab.com?user=SUGAN-24&hide_border=true&background=050816&ring=22D3EE&fire=C084FC&currStreakLabel=67E8F9&sideLabels=FFFFFF&dates=CBD5E1&sideNums=FFFFFF&currStreakNum=FFFFFF" width="72%" alt="GitHub contribution streak" />
     </td>
-
   </tr>
 </table>
 
