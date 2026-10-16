@@ -120,14 +120,15 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
   <b>Practice. Learn. Improve. Repeat. ✦</b>
 </div>
 
-## ✦ CERTIFICATIONS & LEARNING
+## ✦ CERTIFICATIONS
 
 <div align="center">
-  <img src="https://img.shields.io/badge/CERTIFICATIONS-Verified%20credentials%20only-312E81?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Certification section — verified credentials only"/>
-  <br/><br/>
-  <p><b>Growing my skills, one learning milestone at a time.</b></p>
-  <p>I'll add certificate names and credential links here after completing them, so every item on this profile stays genuine and verifiable.</p>
-  <a href="https://trailhead.salesforce.com/"><img src="https://img.shields.io/badge/Explore-Salesforce%20Trailhead-0E7490?style=for-the-badge&logo=salesforce&logoColor=white" alt="Explore Salesforce Trailhead learning"/></a>
+
+| **CERTIFICATION** | **ISSUED BY** | **DETAILS** |
+|:---|:---|:---|
+| Programming in Java | NPTEL · IIT / Ministry of Education | 12-week course · 66% |
+| Java Foundation Course | Infosys Springboard | |
+
 </div>
 
 ## ✦ CURRENTLY LEVELING UP
