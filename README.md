@@ -115,10 +115,7 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
       <b>✦ CONTRIBUTION STREAK</b><br/>
       <img src="https://streak-stats.demolab.com?user=SUGAN-24&hide_border=true&background=050816&ring=22D3EE&fire=C084FC&currStreakLabel=67E8F9&sideLabels=FFFFFF&dates=CBD5E1&sideNums=FFFFFF&currStreakNum=FFFFFF" width="100%" alt="GitHub contribution streak" />
     </td>
-    <td width="50%" align="center" valign="top">
-      <b>✦ PRODUCTIVE TIME</b><br/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SUGAN-24&theme=tokyonight&utcOffset=5.5" width="100%" alt="GitHub productive time chart in India time" />
-    </td>
+
   </tr>
 </table>
 
