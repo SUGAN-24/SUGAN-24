@@ -91,19 +91,25 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
   <p><sub>Every contribution leaves a trail. Keep building, and let the snake chase the squares.</sub></p>
 </div>
 
+## ✦ MOST USED LANGUAGES
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUGAN-24&layout=donut&langs_count=20&card_width=600&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=FFFFFF&size_weight=0.5&count_weight=0.5" width="85%" alt="Donut chart showing up to 20 most-used programming languages with a high-contrast legend" />
+  <p><sub>Color-coded language ring · Up to 20 languages · Bright text for readability</sub></p>
+</div>
+
 ## ✦ CONTRIBUTION BREAKDOWN
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUGAN-24&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=E2E8F0&icon_color=C084FC&rank_icon=github" width="80%" alt="GitHub contribution breakdown showing commits, issues, pull requests, code reviews, and merged pull request percentage" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SUGAN-24&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=FFFFFF&icon_color=C084FC&rank_icon=github" width="80%" alt="GitHub contribution breakdown showing commits, issues, pull requests, code reviews, and merged pull request percentage" />
 </div>
 
 ## ✦ GITHUB ACTIVITY & ANALYTICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUGAN-24&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=E2E8F0&icon_color=C084FC" height="170" alt="GitHub statistics and repository activity" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUGAN-24&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=E2E8F0" height="170" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SUGAN-24&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=FFFFFF&icon_color=C084FC" height="190" alt="GitHub statistics and repository activity with high-contrast white labels and numbers" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=SUGAN-24&hide_border=true&background=050816&ring=22D3EE&fire=C084FC&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8" width="80%" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=SUGAN-24&hide_border=true&background=050816&ring=22D3EE&fire=C084FC&currStreakLabel=67E8F9&sideLabels=FFFFFF&dates=CBD5E1&sideNums=FFFFFF&currStreakNum=FFFFFF&ring=22D3EE&fire=C084FC" width="80%" alt="GitHub contribution streak" />
   <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUGAN-24&theme=tokyonight" width="100%" alt="GitHub contribution activity summary" />
   <br/><br/>
