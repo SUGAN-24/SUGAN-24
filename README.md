@@ -1,7 +1,7 @@
 <!-- SUGAN-24 | MIDNIGHT AURORA DEVELOPER PROFILE -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,25:111827,55:312E81,78:0E7490,100:050816&text=SUGAN%20KUMAR&fontColor=ECFEFF&fontSize=48&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%7C%20JAVA&descAlignY=58&descSize=14&animation=fadeIn" alt="Midnight Aurora animated profile header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,20:172554,45:4C1D95,70:0E7490,88:0891B2,100:020617&text=SUGAN%20KUMAR&fontColor=ECFEFF&fontSize=48&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%7C%20JAVA&descAlignY=58&descSize=14&animation=fadeIn" alt="Midnight Aurora animated profile header" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=720&lines=Building+useful+things+with+code;Java+%7C+Full-Stack+Development;Exploring+AI-powered+applications;Learn.+Build.+Improve.+Repeat." alt="Animated developer introduction" />
   <br/><br/>
@@ -82,10 +82,20 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
 ## ✦ GITHUB ACTIVITY
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUGAN-24&show_icons=true&hide_border=true&rank_icon=github&bg_color=080D1C&title_color=67E8F9&text_color=D7E2F0&icon_color=A78BFA" height="170" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUGAN-24&layout=compact&hide_border=true&bg_color=080D1C&title_color=67E8F9&text_color=D7E2F0" height="170" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SUGAN-24&show_icons=true&hide_border=true&rank_icon=github&bg_color=050816&title_color=22D3EE&text_color=E2E8F0&icon_color=C084FC" height="170" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUGAN-24&layout=compact&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=E2E8F0" height="170" alt="Most used programming languages" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=SUGAN-24&hide_border=true&background=080D1C&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=D7E2F0&dates=94A3B8" width="80%" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=SUGAN-24&hide_border=true&background=050816&ring=22D3EE&fire=C084FC&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8" width="80%" alt="GitHub contribution streak" />
+</div>
+
+## ✦ CERTIFICATIONS & LEARNING
+
+<div align="center">
+  <img src="https://img.shields.io/badge/CERTIFICATIONS-Verified%20credentials%20only-312E81?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Certification section — verified credentials only"/>
+  <br/><br/>
+  <p><b>Growing my skills, one learning milestone at a time.</b></p>
+  <p>I'll add certificate names and credential links here after completing them, so every item on this profile stays genuine and verifiable.</p>
+  <a href="https://trailhead.salesforce.com/"><img src="https://img.shields.io/badge/Explore-Salesforce%20Trailhead-0E7490?style=for-the-badge&logo=salesforce&logoColor=white" alt="Explore Salesforce Trailhead learning"/></a>
 </div>
 
 ## ✦ CURRENTLY LEVELING UP
@@ -103,6 +113,6 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=SUGAN-24&style=flat-square&color=06B6D4&label=PROFILE+VISITS" alt="Profile visit counter"/>
   <br/><br/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,45:312E81,100:06B6D4" alt="Aurora footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,30:1D4ED8,58:6D28D9,82:0891B2,100:020617" alt="Aurora footer" />
   <b>Thanks for stopping by. Stay curious and keep creating. ✦</b>
 </div>
