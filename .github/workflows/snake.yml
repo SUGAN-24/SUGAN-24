@@ -23,14 +23,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate neon aurora contribution snake
+      - name: Generate neon lime contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: SUGAN-24
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23A78BFA&color_dots=%230B1020,%2318274A,%230E7490,%2306B6D4,%2367E8F9
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2367E8F9&color_dots=%230B1020,%2318274A,%23312581,%230E7490,%2322D3EE
-            dist/github-contribution-grid-snake-light.svg?palette=github&color_snake=%237C3AED&color_dots=%23EDE9FE,%23DDD6FE,%23A5F3FC,%230E7490,%2306B6D4
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23A3E635&color_dots=%230B1020,%2314332B,%232D6A4F,%2365A30D,%23BEF264
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23BEF264&color_dots=%230B1020,%2314332B,%232D6A4F,%2365A30D,%23A3E635
+            dist/github-contribution-grid-snake-light.svg?palette=github&color_snake=%2365A30D&color_dots=%23F7FEE7,%23D9F99D,%23BEF264,%2384CC16,%234D7C0F
 
       - name: Publish SVG animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
