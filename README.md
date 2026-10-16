@@ -146,5 +146,5 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
   <img src="https://komarev.com/ghpvc/?username=SUGAN-24&style=flat-square&color=06B6D4&label=PROFILE+VISITS" alt="Profile visit counter"/>
   <br/><br/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,30:1D4ED8,58:6D28D9,82:0891B2,100:020617" alt="Aurora footer" />
-  <b>Thanks for stopping by. Stay curious and keep creating. ✦</b>
+  <i>Thanks for visiting my profile!</i>
 </div>
