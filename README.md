@@ -91,6 +91,13 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
   <p><sub>Every contribution leaves a trail. Keep building, and let the snake chase the squares.</sub></p>
 </div>
 
+## ✦ 3D CONTRIBUTION GRAPH
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution calendar in a dark rainbow theme" />
+  <p><sub>A 3D view of my GitHub contribution activity — automatically refreshed daily.</sub></p>
+</div>
+
 ## ✦ GITHUB ACTIVITY & ANALYTICS
 
 <div align="center">
