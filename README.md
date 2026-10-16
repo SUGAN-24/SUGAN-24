@@ -84,11 +84,11 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
 
 </div>
 
-## ✦ CONTRIBUTION TRAIL
+## ✦ DRAGON TRAIL
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SUGAN-24/SUGAN-24/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake moving across the GitHub contribution grid" />
-  <p><sub>Every contribution leaves a trail. Keep building, and let the snake chase the squares.</sub></p>
+  <img src="https://raw.githubusercontent.com/SUGAN-24/SUGAN-24/main/assets/dragon.svg" width="100%" alt="Golden dragon artwork with glowing details and a contribution-grid trail" />
+  <p><sub>Keep building. Keep rising. Let every contribution fuel the dragon. ✦</sub></p>
 </div>
 
 ## ✦ GITHUB ACTIVITY & ANALYTICS
