@@ -91,7 +91,11 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
 <h2 align="center">✦ CONTRIBUTION TRAIL</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SUGAN-24/SUGAN-24/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake moving across the GitHub contribution grid" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SUGAN-24/SUGAN-24/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SUGAN-24/SUGAN-24/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/SUGAN-24/SUGAN-24/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake moving across the GitHub contribution grid" />
+  </picture>
   <p><sub>Every contribution leaves a trail. Keep building, and let the snake chase the squares.</sub></p>
 </div>
 
@@ -114,7 +118,7 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
     <td colspan="2" align="center" valign="top">
       <b>✦ CONTRIBUTION STREAK</b><br/>
       <sub>Consistency over time · Every commit counts</sub><br/><br/>
-      <img src="https://streak-stats.demolab.com?user=SUGAN-24&hide_border=true&background=050816&ring=22D3EE&fire=C084FC&currStreakLabel=67E8F9&sideLabels=FFFFFF&dates=CBD5E1&sideNums=FFFFFF&currStreakNum=FFFFFF" width="72%" alt="GitHub contribution streak" />
+      <img src="https://streak-stats.demolab.com?user=SUGAN-24&theme=tokyonight&hide_border=true" width="72%" alt="GitHub contribution streak, current streak, longest streak, and total contributions" />
     </td>
   </tr>
 </table>
