@@ -162,7 +162,7 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
   <a href="mailto:sugan.s24082005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sugan"/></a>
   <a href="https://www.linkedin.com/in/sugankumar-s-ba43853ba/"><img src="https://img.shields.io/badge/LINKEDIN-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=SUGAN-24&style=flat-square&color=06B6D4&label=PROFILE+VISITS" alt="Profile visit counter"/>
+  <a href="https://github.com/SUGAN-24" title="Visit my GitHub profile"><img src="https://komarev.com/ghpvc/?username=SUGAN-24&style=flat-square&color=06B6D4&label=PROFILE%20VISITS" alt="Profile visits counter"/></a>
   <br/><br/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,30:1D4ED8,58:6D28D9,82:0891B2,100:020617" alt="Aurora footer" />
   <i>Thanks for visiting my profile!</i>
