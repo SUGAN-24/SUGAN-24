@@ -118,7 +118,7 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
     <td colspan="2" align="center" valign="top">
       <b>✦ CONTRIBUTION STREAK</b><br/>
       <sub>Consistency over time · Every commit counts</sub><br/><br/>
-      <img src="https://streak-stats.demolab.com?user=SUGAN-24&theme=tokyonight&hide_border=true" width="72%" alt="GitHub contribution streak, current streak, longest streak, and total contributions" />
+      <img src="./profile/streak.svg" width="72%" alt="GitHub contribution streak, current streak, longest streak, and total contributions" />
     </td>
   </tr>
 </table>
