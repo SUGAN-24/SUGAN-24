@@ -3,13 +3,12 @@ name: Generate golden yellow contribution trail
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 */12 * * *"
+    - cron: "17 */6 * * *"
   push:
     branches:
       - main
     paths:
       - ".github/workflows/snake.yml"
-      - "README.md"
 
 permissions:
   contents: write
@@ -27,6 +26,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: SUGAN-24
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23FACC15&color_dots=%23050816,%23422006,%23854D0E,%23CA8A04,%23FDE047
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FDE047&color_dots=%23050816,%23422006,%23854D0E,%23CA8A04,%23FACC15
