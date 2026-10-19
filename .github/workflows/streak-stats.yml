@@ -2,7 +2,7 @@ name: Update self-hosted GitHub streak card
 
 on:
   schedule:
-    - cron: "17 3 * * *"
+    - cron: "17 */6 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -20,6 +20,7 @@ concurrency:
 jobs:
   update-streak:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout profile repository
         uses: actions/checkout@v4
