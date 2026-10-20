@@ -1,5 +1,6 @@
 name: Update self-hosted GitHub streak card
 
+# Manual refresh trigger; the scheduled run keeps this card updated automatically.
 on:
   schedule:
     - cron: "17 */6 * * *"
