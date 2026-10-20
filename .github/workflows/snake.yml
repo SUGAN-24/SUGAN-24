@@ -1,5 +1,6 @@
 name: Generate golden yellow contribution trail
 
+# Keep the generated SVGs in sync with the latest GitHub contribution calendar.
 on:
   workflow_dispatch:
   schedule:
