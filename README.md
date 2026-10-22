@@ -114,14 +114,16 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SUGAN-24&theme=tokyonight" width="100%" alt="GitHub activity statistics" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <b>✦ CONTRIBUTION STREAK</b><br/>
-      <sub>Consistency over time · Every commit counts</sub><br/><br/>
-      <img src="https://raw.githubusercontent.com/SUGAN-24/SUGAN-24/main/profile/streak.svg" width="72%" alt="GitHub contribution streak, current streak, longest streak, and total contributions" />
-    </td>
-  </tr>
 </table>
+
+</div>
+
+<h2 align="center">✦ CONTRIBUTION STREAK</h2>
+
+<div align="center">
+  <p><sub>Consistency over time · Every commit counts</sub></p>
+  <img src="https://raw.githubusercontent.com/SUGAN-24/SUGAN-24/main/profile/streak.svg?raw=1" width="72%" alt="GitHub contribution streak, current streak, longest streak, and total contributions" />
+</div>
 
 </div>
 
