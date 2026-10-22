@@ -118,13 +118,11 @@ I’m a Computer Science & Engineering student who enjoys turning ideas into wor
 
 </div>
 
-<h2 align="center">✦ CONTRIBUTION STREAK</h2>
+## ✦ CONTRIBUTION STREAK
 
 <div align="center">
   <p><sub>Consistency over time · Every commit counts</sub></p>
-  <img src="https://raw.githubusercontent.com/SUGAN-24/SUGAN-24/main/profile/streak.svg?raw=1" width="72%" alt="GitHub contribution streak, current streak, longest streak, and total contributions" />
-</div>
-
+  <img src="https://raw.githubusercontent.com/SUGAN-24/SUGAN-24/main/profile/streak.svg" width="72%" alt="GitHub contribution streak, current streak, longest streak, and total contributions" />
 </div>
 
 <h2 align="center">✦ LEETCODE DASHBOARD</h2>
